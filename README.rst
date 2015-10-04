@@ -5,8 +5,15 @@ p2pshare
 A peer to peer file sharing network. Useful for sharing files among users connected on a network. 
 Run the peer by the following command on peer.  
 
+------------
+Installation
+------------
+You can install p2pshare in following 2 ways:
+1. pip install p2pshare
+2. Download the tar ball , extract it and run setup.py
+
 -----
-usage
+Usage
 -----
 
 p2pshare ip port 
