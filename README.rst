@@ -10,8 +10,8 @@ Installation
 ------------
 You can install p2pshare in following 2 ways:
 
-- 1. pip install p2pshare
-- 2. Download the tar ball , extract it and run setup.py
+- From PyPi - pip install p2pshare
+- Download the tar ball , extract it and run setup.py
 
 -----
 Usage
