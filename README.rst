@@ -9,8 +9,8 @@ Run the peer by the following command on peer.
 Installation
 ------------
 You can install p2pshare in following 2 ways:
-1. pip install p2pshare
-2. Download the tar ball , extract it and run setup.py
+- 1. pip install p2pshare
+- 2. Download the tar ball , extract it and run setup.py
 
 -----
 Usage
