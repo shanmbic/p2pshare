@@ -10,4 +10,7 @@ setup(name='p2pshare',
       license="LICENSE.rst",
       packages=['p2pshare'],
       scripts=['bin/p2pshare'],
+      install_requires=[
+          'pickle',
+      ],
       zip_safe=False)
